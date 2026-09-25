@@ -19,6 +19,27 @@ Outil professionnel de gestion et d'analyse de portefeuille obligataire dévelop
 - Tableaux de bord graphiques : sensibilité par pilier de maturité et impact P&L suite à une variation de $\pm 1\%$ des taux.
 - Automatisation complète via des boutons de mise à jour et génération dynamique de rapports par obligation.
 
+## English Below 
+
+Professional bond portfolio management and analysis tool developed in Excel and VBA.
+
+## 📈 Project Features
+
+### 1. Individual Bond Analysis
+- Dedicated user interface for entering bond characteristics (face value, coupon, maturity, frequency, market rate).
+- Custom VBA functions:
+  - `FluxObligation()`: Generation of the cash flow schedule (coupons and principal repayment).
+  - `PrixObligation()`: Calculation of present value (dirty price).
+  - `TauxRendement()`: Calculation of the Yield to Maturity (YTM) via bisection.
+  - `Duration()` & `Convexite()`: Measures of price sensitivity to interest rate changes.
+
+### 2. Portfolio Management and Aggregation
+- Universe of 15 bonds incorporating real market data.
+- Global aggregation of financial cash flows and calculation of key portfolio KPIs (total price, weighted average modified duration, convexity, and overall yield).
+- Barycentric projection by maturity buckets (from 1 month to 30 years).
+- Graphical dashboards: sensitivity by maturity bucket and P&L impact following a $\pm 1\%$ interest rate shift.
+- Full automation via update buttons and dynamic generation of per-bond reports.
+
 ---
 
 ## 🛠️ Utilisation et Installation
