@@ -2,7 +2,7 @@
 
 Outil professionnel de gestion et d'analyse de portefeuille obligataire développé sous Excel et VBA.
 
-## 📈 Fonctionnalités du Projet
+## Fonctionnalités du Projet
 
 ### 1. Analyse Individuelle des Obligations
 - Interface utilisateur dédiée à la saisie des caractéristiques obligataires (Nominal, coupon, maturité, fréquence, taux de marché).
@@ -23,7 +23,7 @@ Outil professionnel de gestion et d'analyse de portefeuille obligataire dévelop
 
 Professional bond portfolio management and analysis tool developed in Excel and VBA.
 
-## 📈 Project Features
+## Project Features
 
 ### 1. Individual Bond Analysis
 - Dedicated user interface for entering bond characteristics (face value, coupon, maturity, frequency, market rate).
@@ -42,7 +42,7 @@ Professional bond portfolio management and analysis tool developed in Excel and 
 
 ---
 
-## 🛠️ Utilisation et Installation
+## Utilisation et Installation
 
 1. **Ouvrir le classeur Excel :**
    Assurez-vous d'activer les macros VBA (onglets développeur / sécurité des macros) à l'ouverture du fichier.
